@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+    color: rgb(255, 255, 255); 
+  }
+  
+  .nao-encontrado {
+    text-align: center;
+  }
+  .aluno{
+    text-align: center;
+  }
+  
+  img {
+    max-width: 300px;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .mensagem {
+    background-color: rgb(69, 202, 247); 
+    padding: 10px;
+    border-radius: 5px; 
+  }
+
+  #cor{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+  }
+  
